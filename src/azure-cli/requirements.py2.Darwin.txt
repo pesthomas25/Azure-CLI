@@ -131,7 +131,7 @@ six==1.12.0
 sshtunnel==0.1.5
 tabulate==0.8.3
 typing==3.7.4
-urllib3==1.25.3
+urllib3==1.25.8
 vcrpy==2.0.1
 vsts==0.1.25
 vsts-cd-manager==1.0.2
